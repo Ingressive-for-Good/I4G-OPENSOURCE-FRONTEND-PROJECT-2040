@@ -1015,3 +1015,14 @@ a "no, cancel action" button
 
 -----Main Goal -- To design the profile page for sub-admin accounts.
 
+
+
+## Name: Adewole Abdulazeez 
+
+## Description: Admin Design - Authentication screen (email notifications) - mobile view
+### Observation/Changes
+- I designed the screen for the Admin login page (desktop view).
+- I designed the reset password flow for the admin.
+
+-----Main Goal -- To design the authentication page for the admin.
+
